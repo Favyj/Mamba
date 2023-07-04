@@ -53,6 +53,44 @@ header nav #contact-us-cta{
     line-height: 24px;
 }
 
+.blue-wrap{
+    color:#0085FF;
+}
+
+header #banner .banner-left-item .email-stuff{
+    display:flex;
+    flex-direction:row;
+    gap:8px;
+    margin-top:24px;
+}
+
+header #banner .banner-left-item .banner-form-wrapper .email{
+    width:296px;
+    height:52px;
+    border-radius: 8px;
+    border:none;
+    outline:none;
+    box-shadow: 0px 16px 24px rgba(125, 149, 169, 0.12);
+    background:#fff;
+    color:#686868;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 16px;
+}
+
+header #banner .banner-left-item .banner-form-wrapper .button{
+    padding: 14px 32px;
+    text-decoration: none;
+    color:#ffffff;
+    background-color: #0085FF;
+    box-shadow: 0px 16px 24px rgba(0, 133, 255, 0.16);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+}
+
 header #banner{
     height:720px;
     display: grid;
